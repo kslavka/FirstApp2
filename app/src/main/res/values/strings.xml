@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+
+    <string name="hello_world">Hello world bitches!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Edit message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">My Message</string>
+
+</resources>
