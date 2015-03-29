@@ -15,6 +15,7 @@ public class DisplayMessageActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
        // setContentView(R.layout.activity_display_message);
 
+        // test
         Intent intent = getIntent();
         String message = intent.getStringExtra(MyActivity.EXTRA_MESSAGE);
 
@@ -23,7 +24,6 @@ public class DisplayMessageActivity extends ActionBarActivity {
         textView.setText( message );
 
         setContentView(textView);
-
     }
 
 
