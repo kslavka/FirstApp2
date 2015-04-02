@@ -1310,6 +1310,7 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020034;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020035;
         public static final int abc_textfield_search_material=0x7f020036;
+        public static final int ic_action_search=0x7f020037;
     }
     public static final class id {
         public static final int action_bar=0x7f090031;
@@ -1325,7 +1326,8 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09002e;
         public static final int action_mode_bar_stub=0x7f09002d;
         public static final int action_mode_close_button=0x7f090020;
-        public static final int action_settings=0x7f090040;
+        public static final int action_search=0x7f090040;
+        public static final int action_settings=0x7f090041;
         public static final int activity_chooser_view_content=0x7f090021;
         public static final int always=0x7f090016;
         public static final int beginning=0x7f090013;
@@ -1411,8 +1413,9 @@ containing a value of this type.
         public static final int support_simple_spinner_dropdown_item=0x7f040018;
     }
     public static final class menu {
-        public static final int menu_display_message=0x7f0d0000;
-        public static final int menu_my=0x7f0d0001;
+        public static final int main_activity_actions=0x7f0d0000;
+        public static final int menu_display_message=0x7f0d0001;
+        public static final int menu_my=0x7f0d0002;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -1434,12 +1437,13 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f0b000d;
         public static final int abc_shareactionprovider_share_with_application=0x7f0b000e;
         public static final int abc_toolbar_collapse_description=0x7f0b000f;
-        public static final int action_settings=0x7f0b0010;
-        public static final int app_name=0x7f0b0011;
-        public static final int button_send=0x7f0b0012;
-        public static final int edit_message=0x7f0b0013;
-        public static final int hello_world=0x7f0b0014;
-        public static final int title_activity_display_message=0x7f0b0015;
+        public static final int action_search=0x7f0b0010;
+        public static final int action_settings=0x7f0b0011;
+        public static final int app_name=0x7f0b0012;
+        public static final int button_send=0x7f0b0013;
+        public static final int edit_message=0x7f0b0014;
+        public static final int hello_world=0x7f0b0015;
+        public static final int title_activity_display_message=0x7f0b0016;
     }
     public static final class style {
         public static final int Animation_AppCompat_DropDownUp=0x7f0c0000;
