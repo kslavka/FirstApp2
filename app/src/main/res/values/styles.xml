@@ -5,4 +5,9 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <!-- inherit from the material theme -->
+    <style name="AppTheme2" parent="android:Theme.Material.Light.DarkActionBar">
+
+    </style>
+
 </resources>
